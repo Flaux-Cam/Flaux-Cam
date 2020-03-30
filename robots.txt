@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /~rewrite/
+Disallow: /~svn/
+Disallow: /~db/
+Disallow: /captcha/
+Disallow: /classes/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /resources/
+Disallow: /download/*.msi
+Disallow: /download/samples/
+
+Sitemap: https://www.freescreenrecording.com/sitemap.xml
